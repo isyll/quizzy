@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "questions": "Quel pays a remporté le plus de Coupes du Monde de la FIFA ?",
+      "answers": ["Allemagne", "Brésil", "Italie"],
+      "correct": 1
+    },
+    {
+      "questions": "En quelle année Roger Federer a-t-il remporté son premier titre à Wimbledon ?",
+      "answers": ["2003", "2005", "2007"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel sport est connu sous le nom de 'roi des sports' ?",
+      "answers": ["Basketball", "Football (Soccer)", "Tennis"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays a accueilli les Jeux Olympiques d'été de 2012 ?",
+      "answers": ["Brésil", "Royaume-Uni", "Chine"],
+      "correct": 1
+    },
+    {
+      "questions": "Qui détient le record du plus grand nombre de buts marqués en une seule Coupe du Monde ?",
+      "answers": ["Miroslav Klose", "Pelé", "Just Fontaine"],
+      "correct": 2
+    },
+    {
+      "questions": "Quel pays a remporté le plus de médailles d'or olympiques dans l'histoire ?",
+      "answers": ["Chine", "États-Unis", "Russie"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel joueur de tennis a remporté le plus de titres du Grand Chelem ?",
+      "answers": ["Serena Williams", "Margaret Court", "Steffi Graf"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays a remporté la première Coupe du Monde de Rugby en 1987 ?",
+      "answers": ["Australie", "Nouvelle-Zélande", "Afrique du Sud"],
+      "correct": 1
+    },
+    {
+      "questions": "Quelle équipe de la NBA a remporté le plus de championnats ?",
+      "answers": ["Los Angeles Lakers", "Boston Celtics", "Chicago Bulls"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel boxeur était connu sous les noms de 'The Greatest' et 'The People's Champion' ?",
+      "answers": ["Mike Tyson", "Muhammad Ali", "Joe Frazier"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays est le plus titré dans l'histoire de la Coupe du Monde de Cricket ?",
+      "answers": ["Inde", "Australie", "Antilles"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel athlète est connu comme l'homme le plus rapide du monde ?",
+      "answers": ["Carl Lewis", "Usain Bolt", "Michael Johnson"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays a remporté le plus de Tours de France ?",
+      "answers": ["France", "États-Unis", "Espagne"],
+      "correct": 0
+    },
+    {
+      "questions": "Quelle ville a accueilli les premiers Jeux Olympiques modernes en 1896 ?",
+      "answers": ["Paris", "Athènes", "Londres"],
+      "correct": 1
+    },
+    {
+      "questions": "Quelle équipe de la NFL a remporté le plus de titres du Super Bowl ?",
+      "answers": [
+        "New England Patriots",
+        "Pittsburgh Steelers",
+        "Dallas Cowboys"
+      ],
+      "correct": 0
+    },
+    {
+      "questions": "Qui est le meilleur marqueur de tous les temps en NBA ?",
+      "answers": ["Kareem Abdul-Jabbar", "LeBron James", "Michael Jordan"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays a remporté le plus de titres de la Coupe Davis en tennis ?",
+      "answers": ["Australie", "États-Unis", "France"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel est le seul athlète à avoir joué dans un Super Bowl et une Série mondiale ?",
+      "answers": ["Deion Sanders", "Bo Jackson", "Michael Jordan"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel golfeur a remporté le plus de championnats majeurs ?",
+      "answers": ["Jack Nicklaus", "Tiger Woods", "Arnold Palmer"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays a remporté le plus de médailles dans l'histoire des Jeux Olympiques d'hiver ?",
+      "answers": ["Norvège", "États-Unis", "Allemagne"],
+      "correct": 0
+    },
+    {
+      "questions": "Quelle équipe a remporté la Coupe du Monde Féminine de la FIFA en 2019 ?",
+      "answers": ["Allemagne", "États-Unis", "Pays-Bas"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel athlète est connu sous le nom de 'Flying Finn' ?",
+      "answers": ["Paavo Nurmi", "Usain Bolt", "Carl Lewis"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays est connu pour avoir remporté le plus de titres en ski de la Coupe du Monde ?",
+      "answers": ["Suisse", "Autriche", "Norvège"],
+      "correct": 1
+    },
+    {
+      "questions": "Qui est l'athlète le mieux payé de tous les temps ?",
+      "answers": ["Floyd Mayweather", "Cristiano Ronaldo", "Michael Jordan"],
+      "correct": 2
+    },
+    {
+      "questions": "Quelle équipe a remporté le plus de fois la Ligue des Champions de l'UEFA ?",
+      "answers": ["Barcelone", "AC Milan", "Real Madrid"],
+      "correct": 2
+    }
+  ]
+}

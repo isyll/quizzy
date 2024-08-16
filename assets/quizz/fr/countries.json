@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "questions": "Quelle est la capitale de la France ?",
+      "answers": ["Berlin", "Paris", "Madrid"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays est connu sous le nom de Pays du Soleil Levant ?",
+      "answers": ["Chine", "Japon", "Corée du Sud"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel est le plus grand pays en termes de superficie ?",
+      "answers": ["Russie", "Canada", "États-Unis"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays possède la ville la plus peuplée du monde ?",
+      "answers": ["Inde", "Brésil", "Chine"],
+      "correct": 2
+    },
+    {
+      "questions": "Quel pays abrite la ville antique de Pétra ?",
+      "answers": ["Égypte", "Jordanie", "Syrie"],
+      "correct": 1
+    },
+    {
+      "questions": "Quelle est la langue officielle du Brésil ?",
+      "answers": ["Espagnol", "Portugais", "Français"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays africain était autrefois connu sous le nom d'Abyssinie ?",
+      "answers": ["Éthiopie", "Nigeria", "Soudan"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel est le plus petit pays du monde ?",
+      "answers": ["Monaco", "Vatican", "Saint-Marin"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays est célèbre pour ses tulipes et ses moulins à vent ?",
+      "answers": ["Pays-Bas", "Danemark", "Belgique"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays possède la plus longue côte du monde ?",
+      "answers": ["Australie", "Canada", "Indonésie"],
+      "correct": 1
+    },
+    {
+      "questions": "Quelle est la capitale de l'Australie ?",
+      "answers": ["Sydney", "Melbourne", "Canberra"],
+      "correct": 2
+    },
+    {
+      "questions": "Quel pays est connu pour ses fjords ?",
+      "answers": ["Suède", "Norvège", "Finlande"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays d'Amérique du Sud est enclavé ?",
+      "answers": ["Chili", "Paraguay", "Uruguay"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays est connu sous le nom de Perle de l'océan Indien ?",
+      "answers": ["Sri Lanka", "Maldives", "Inde"],
+      "correct": 0
+    },
+    {
+      "questions": "Quelle est la langue officielle de l'Égypte ?",
+      "answers": ["Arabe", "Français", "Anglais"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays abrite la Grande Barrière de Corail ?",
+      "answers": ["Nouvelle-Zélande", "Australie", "Fidji"],
+      "correct": 1
+    },
+    {
+      "questions": "Quelle est la capitale du Canada ?",
+      "answers": ["Toronto", "Vancouver", "Ottawa"],
+      "correct": 2
+    },
+    {
+      "questions": "Quel pays européen est connu pour ses canaux ?",
+      "answers": ["Belgique", "Pays-Bas", "Italie"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays est le plus grand producteur de café au monde ?",
+      "answers": ["Colombie", "Brésil", "Vietnam"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel est l'animal national de l'Écosse ?",
+      "answers": ["Lion", "Licorne", "Aigle"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays est connu comme le berceau de la démocratie ?",
+      "answers": ["Italie", "Grèce", "France"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays est connu pour la Tour Eiffel ?",
+      "answers": ["Italie", "France", "Allemagne"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays possède le plus grand nombre de lacs naturels ?",
+      "answers": ["Canada", "Finlande", "États-Unis"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays abrite la chaîne de montagnes des Andes ?",
+      "answers": ["Argentine", "Pérou", "Chili"],
+      "correct": 2
+    },
+    {
+      "questions": "Quel pays est le plus grand producteur d'huile d'olive ?",
+      "answers": ["Grèce", "Italie", "Espagne"],
+      "correct": 2
+    },
+    {
+      "questions": "Quel pays a le plus grand nombre de langues officielles ?",
+      "answers": ["Inde", "Afrique du Sud", "Suisse"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays est le plus grand producteur de thé ?",
+      "answers": ["Inde", "Chine", "Sri Lanka"],
+      "correct": 1
+    },
+    {
+      "questions": "Quelle est la capitale de l'Argentine ?",
+      "answers": ["Buenos Aires", "Lima", "Santiago"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays est connu sous le nom de Terre de Feu et de Glace ?",
+      "answers": ["Islande", "Groenland", "Norvège"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays a le plus grand nombre de sites du patrimoine mondial de l'UNESCO ?",
+      "answers": ["Italie", "Chine", "Espagne"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays est célèbre pour la Grande Muraille ?",
+      "answers": ["Chine", "Japon", "Corée du Sud"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays possède la ville la plus ancienne encore habitée ?",
+      "answers": ["Égypte", "Grèce", "Syrie"],
+      "correct": 2
+    },
+    {
+      "questions": "Quel pays est la plus grande île du monde ?",
+      "answers": ["Australie", "Groenland", "Madagascar"],
+      "correct": 1
+    },
+    {
+      "questions": "Quelle est la capitale de la Corée du Sud ?",
+      "answers": ["Séoul", "Busan", "Incheon"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays abrite le plus haut bâtiment du monde, le Burj Khalifa ?",
+      "answers": ["Arabie Saoudite", "Émirats Arabes Unis", "Qatar"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays est connu sous le nom de Terre du Dragon Tonnerre ?",
+      "answers": ["Népal", "Bhoutan", "Thaïlande"],
+      "correct": 1
+    },
+    {
+      "questions": "Quelle est la capitale de l'Égypte ?",
+      "answers": ["Le Caire", "Alexandrie", "Louxor"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays est le premier exportateur de pétrole ?",
+      "answers": ["Russie", "Arabie Saoudite", "États-Unis"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays est connu pour ses pyramides ?",
+      "answers": ["Mexique", "Égypte", "Pérou"],
+      "correct": 1
+    },
+    {
+      "questions": "Quelle est la capitale de la Thaïlande ?",
+      "answers": ["Bangkok", "Phuket", "Chiang Mai"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays est le plus petit par superficie ?",
+      "answers": ["Malte", "Monaco", "Vatican"],
+      "correct": 2
+    },
+    {
+      "questions": "Quel pays est connu pour la forêt amazonienne ?",
+      "answers": ["Pérou", "Brésil", "Colombie"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays a la plus grande densité de population ?",
+      "answers": ["Singapour", "Monaco", "Bangladesh"],
+      "correct": 1
+    },
+    {
+      "questions": "Quelle est la capitale de la Turquie ?",
+      "answers": ["Ankara", "Istanbul", "Izmir"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays est connu sous le nom de Pays du Sourire ?",
+      "answers": ["Thaïlande", "Philippines", "Cambodge"],
+      "correct": 0
+    },
+    {
+      "questions": "Quel pays est le deuxième plus grand au monde par superficie ?",
+      "answers": ["États-Unis", "Canada", "Chine"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays est connu pour le mont Everest ?",
+      "answers": ["Népal", "Inde", "Bhoutan"],
+      "correct": 0
+    },
+    {
+      "questions": "Quelle est la capitale du Kenya ?",
+      "answers": ["Mombasa", "Kisumu", "Nairobi"],
+      "correct": 2
+    },
+    {
+      "questions": "Quel pays possède le plus long fleuve du monde ?",
+      "answers": ["Brésil", "Égypte", "Chine"],
+      "correct": 1
+    },
+    {
+      "questions": "Quel pays abrite le plus grand désert du monde, le Sahara ?",
+      "answers": ["Soudan", "Algérie", "Maroc"],
+      "correct": 1
+    }
+  ]
+}

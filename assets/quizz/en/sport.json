@@ -1,0 +1,262 @@
+{
+  "data": [
+    {
+      "questions": "Which country has won the most FIFA World Cups?",
+      "answers": ["Germany", "Brazil", "Italy"],
+      "correct": 1
+    },
+    {
+      "questions": "In which year did Roger Federer win his first Wimbledon title?",
+      "answers": ["2003", "2005", "2007"],
+      "correct": 0
+    },
+    {
+      "questions": "Which sport is known as the 'king of sports'?",
+      "answers": ["Basketball", "Football (Soccer)", "Tennis"],
+      "correct": 1
+    },
+    {
+      "questions": "Which country hosted the 2012 Summer Olympics?",
+      "answers": ["Brazil", "United Kingdom", "China"],
+      "correct": 1
+    },
+    {
+      "questions": "Who holds the record for the most goals scored in a single World Cup?",
+      "answers": ["Miroslav Klose", "Pelé", "Just Fontaine"],
+      "correct": 2
+    },
+    {
+      "questions": "Which country has won the most Olympic gold medals in history?",
+      "answers": ["China", "United States", "Russia"],
+      "correct": 1
+    },
+    {
+      "questions": "Which tennis player has won the most Grand Slam titles?",
+      "answers": ["Serena Williams", "Margaret Court", "Steffi Graf"],
+      "correct": 1
+    },
+    {
+      "questions": "Which country won the first ever Rugby World Cup in 1987?",
+      "answers": ["Australia", "New Zealand", "South Africa"],
+      "correct": 1
+    },
+    {
+      "questions": "Which NBA team won the most championships?",
+      "answers": ["Los Angeles Lakers", "Boston Celtics", "Chicago Bulls"],
+      "correct": 1
+    },
+    {
+      "questions": "Which boxer was known as 'The Greatest' and 'The People's Champion'?",
+      "answers": ["Mike Tyson", "Muhammad Ali", "Joe Frazier"],
+      "correct": 1
+    },
+    {
+      "questions": "Which country is the most successful in the history of the Cricket World Cup?",
+      "answers": ["India", "Australia", "West Indies"],
+      "correct": 1
+    },
+    {
+      "questions": "Which athlete is known as the fastest man in the world?",
+      "answers": ["Carl Lewis", "Usain Bolt", "Michael Johnson"],
+      "correct": 1
+    },
+    {
+      "questions": "Which country has the most Tour de France wins?",
+      "answers": ["France", "United States", "Spain"],
+      "correct": 0
+    },
+    {
+      "questions": "Which city hosted the first modern Olympic Games in 1896?",
+      "answers": ["Paris", "Athens", "London"],
+      "correct": 1
+    },
+    {
+      "questions": "Which NFL team has won the most Super Bowl titles?",
+      "answers": [
+        "New England Patriots",
+        "Pittsburgh Steelers",
+        "Dallas Cowboys"
+      ],
+      "correct": 0
+    },
+    {
+      "questions": "Who is the all-time top scorer in the NBA?",
+      "answers": ["Kareem Abdul-Jabbar", "LeBron James", "Michael Jordan"],
+      "correct": 1
+    },
+    {
+      "questions": "Which country has won the most Davis Cup titles in tennis?",
+      "answers": ["Australia", "United States", "France"],
+      "correct": 1
+    },
+    {
+      "questions": "Who is the only athlete to play in both a Super Bowl and a World Series?",
+      "answers": ["Deion Sanders", "Bo Jackson", "Michael Jordan"],
+      "correct": 0
+    },
+    {
+      "questions": "Which golfer has won the most major championships?",
+      "answers": ["Jack Nicklaus", "Tiger Woods", "Arnold Palmer"],
+      "correct": 0
+    },
+    {
+      "questions": "Which country has the most medals in Winter Olympics history?",
+      "answers": ["Norway", "United States", "Germany"],
+      "correct": 0
+    },
+    {
+      "questions": "Which team won the FIFA Women's World Cup in 2019?",
+      "answers": ["Germany", "United States", "Netherlands"],
+      "correct": 1
+    },
+    {
+      "questions": "Which athlete is known as the 'Flying Finn'?",
+      "answers": ["Paavo Nurmi", "Usain Bolt", "Carl Lewis"],
+      "correct": 0
+    },
+    {
+      "questions": "Which country is known for winning the most World Cup skiing titles?",
+      "answers": ["Switzerland", "Austria", "Norway"],
+      "correct": 1
+    },
+    {
+      "questions": "Who is the highest-paid athlete of all time?",
+      "answers": ["Floyd Mayweather", "Cristiano Ronaldo", "Michael Jordan"],
+      "correct": 2
+    },
+    {
+      "questions": "Which team won the UEFA Champions League the most times?",
+      "answers": ["Barcelona", "AC Milan", "Real Madrid"],
+      "correct": 2
+    },
+    {
+      "questions": "Which country won the first FIFA World Cup in 1930?",
+      "answers": ["Argentina", "Brazil", "Uruguay"],
+      "correct": 2
+    },
+    {
+      "questions": "Which sport is known as the 'gentleman's game'?",
+      "answers": ["Cricket", "Golf", "Tennis"],
+      "correct": 0
+    },
+    {
+      "questions": "Which athlete has won the most Olympic medals in history?",
+      "answers": ["Michael Phelps", "Usain Bolt", "Larisa Latynina"],
+      "correct": 0
+    },
+    {
+      "questions": "Which country has won the most Rugby World Cups?",
+      "answers": ["South Africa", "New Zealand", "England"],
+      "correct": 1
+    },
+    {
+      "questions": "Which soccer player has the most Ballon d'Or awards?",
+      "answers": ["Cristiano Ronaldo", "Lionel Messi", "Johan Cruyff"],
+      "correct": 1
+    },
+    {
+      "questions": "Which country won the 2018 FIFA World Cup?",
+      "answers": ["France", "Germany", "Argentina"],
+      "correct": 0
+    },
+    {
+      "questions": "Which sport is the Tour de France associated with?",
+      "answers": ["Swimming", "Cycling", "Running"],
+      "correct": 1
+    },
+    {
+      "questions": "Which team won the first NBA championship?",
+      "answers": [
+        "Boston Celtics",
+        "Minneapolis Lakers",
+        "Philadelphia Warriors"
+      ],
+      "correct": 2
+    },
+    {
+      "questions": "Which country is famous for the martial art of Taekwondo?",
+      "answers": ["Japan", "China", "South Korea"],
+      "correct": 2
+    },
+    {
+      "questions": "Which country has won the most World Series titles in baseball?",
+      "answers": ["New York Yankees", "Boston Red Sox", "St. Louis Cardinals"],
+      "correct": 0
+    },
+    {
+      "questions": "Who is the all-time top scorer in the Premier League?",
+      "answers": ["Wayne Rooney", "Thierry Henry", "Alan Shearer"],
+      "correct": 2
+    },
+    {
+      "questions": "Which country has won the most Six Nations Championships in rugby?",
+      "answers": ["England", "France", "Ireland"],
+      "correct": 0
+    },
+    {
+      "questions": "Which golfer is known as 'The Golden Bear'?",
+      "answers": ["Jack Nicklaus", "Arnold Palmer", "Gary Player"],
+      "correct": 0
+    },
+    {
+      "questions": "Which team won the first ever European Championship in football (soccer) in 1960?",
+      "answers": ["Soviet Union", "Spain", "Italy"],
+      "correct": 0
+    },
+    {
+      "questions": "Which tennis tournament is played on clay courts?",
+      "answers": ["Wimbledon", "US Open", "French Open"],
+      "correct": 2
+    },
+    {
+      "questions": "Which country is known for its dominance in table tennis?",
+      "answers": ["Japan", "China", "South Korea"],
+      "correct": 1
+    },
+    {
+      "questions": "Which team has won the most Formula 1 Constructors' Championships?",
+      "answers": ["Ferrari", "Mercedes", "McLaren"],
+      "correct": 0
+    },
+    {
+      "questions": "Which country has won the most Davis Cup titles in tennis?",
+      "answers": ["United States", "Australia", "France"],
+      "correct": 0
+    },
+    {
+      "questions": "Who holds the record for the most home runs in Major League Baseball?",
+      "answers": ["Hank Aaron", "Barry Bonds", "Babe Ruth"],
+      "correct": 1
+    },
+    {
+      "questions": "Which sport is associated with the Ryder Cup?",
+      "answers": ["Golf", "Tennis", "Cricket"],
+      "correct": 0
+    },
+    {
+      "questions": "Which country won the first Cricket World Cup in 1975?",
+      "answers": ["Australia", "West Indies", "England"],
+      "correct": 1
+    },
+    {
+      "questions": "Which athlete is known for the 'Triple Double' in basketball?",
+      "answers": ["LeBron James", "Russell Westbrook", "Magic Johnson"],
+      "correct": 1
+    },
+    {
+      "questions": "Which country is known for dominating the sport of judo?",
+      "answers": ["Japan", "Russia", "France"],
+      "correct": 0
+    },
+    {
+      "questions": "Which team won the first FIFA Women's World Cup in 1991?",
+      "answers": ["Germany", "United States", "Norway"],
+      "correct": 1
+    },
+    {
+      "questions": "Which boxer was nicknamed 'Iron Mike'?",
+      "answers": ["Evander Holyfield", "Mike Tyson", "George Foreman"],
+      "correct": 1
+    }
+  ]
+}
